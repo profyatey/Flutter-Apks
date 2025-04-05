@@ -1,6 +1,6 @@
 # TYCITC
 
-A new Flutter project.
+A new Flutter App;ication.
 
 ## Getting Started
 
